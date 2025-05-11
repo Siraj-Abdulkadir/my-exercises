@@ -1,3 +1,4 @@
+//May 10/2025
 public class Average_of_arrays{
 
   public static void main (String[] args){
